@@ -27,7 +27,7 @@ The best safety measure that can be taken is enforcing the people to wear a face
 As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
 
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
+![Coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdata-flair.training%2Fblogs%2Fdata-science-r-movie-recommendation%2F&psig=AOvVaw2sY6W7G_Ha4298PRfyAHQP&ust=1618458964209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDAnNLr_O8CFQAAAAAdAAAAABAD)
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
