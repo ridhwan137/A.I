@@ -5,10 +5,10 @@
 **Project Title:** Movie Recommendation
 
 **Team Members:** 
-- [Muhammad Syafiq Bin Enchek Muda (B031910178)]
-- [Abdillah Safwan Bin Yusop (B031910120)]
-- [Muhammad Ridhwan Bin Razalee (B031910197)]
-- [Fariq Hazeeq Bin Burhanuddin (B031910427)]
+- Muhammad Syafiq Bin Enchek Muda (B031910178)
+- Abdillah Safwan Bin Yusop (B031910120)]
+- Muhammad Ridhwan Bin Razalee (B031910197)
+- Fariq Hazeeq Bin Burhanuddin (B031910427)
 
 
 - [ ] **Objectives:**
