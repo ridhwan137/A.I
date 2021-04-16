@@ -13,9 +13,9 @@
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [To suggest movies to user based on their previous activities information]
-- [To predict preferences based on the user's selections]
-- [To filtering preferences based on the user's selections]
+- To suggest movies to user based on their previous activities information
+- To predict preferences based on the user's selections
+- To filtering preferences based on the user's selections
 
 
 
