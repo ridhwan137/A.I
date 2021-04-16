@@ -55,7 +55,7 @@ Figure 2: shows the content-based filtering and collaborative filtering
 ## D.   PROJECT STRUCTURE
 (will be update soon)
 
-## E   TRAINING THE COVID-19 FACE MASK DETECTION
+## E   TRAINING THE MOVIES RECOMMENDATION
 (will be update soon)
 
 ## F.  RESULT AND CONCLUSION
